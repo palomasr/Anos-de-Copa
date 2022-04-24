@@ -1,0 +1,2 @@
+Hello!
+Esse é mais um dos exercícios de lógica de programação feitos durante o curso da Oracle + Alura. Nesse exercício trabalhamos com HTML/JavaScript para verificar em quais anos ocorreram copas do mundo.
